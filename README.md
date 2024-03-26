@@ -8,6 +8,8 @@
 
 [Description about drupal folder where we need to be created the custom modules for drupal 10+](/drupal/README.md)
 
+Link to the [Google form]() where you can edit the original prompt to Devin AI
+
 ## Presales and Communication
 
 This repository is created for collaboration with DEVIN AI and Alefinvest community.

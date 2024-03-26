@@ -1,10 +1,9 @@
 # Decimal - Decimal Payment Method for Magento 2
 Decimal Payment Method for Magento 2
 
+## Decimal integration
 
-# Decimal integration.
-
-##Installation
+### Installation
 
     composer require decimal/decimal-magento2-plugin
 
@@ -12,9 +11,9 @@ Decimal Payment Method for Magento 2
 
     php bin/magento setup:upgrade
 
-##After it:
+### After it:
+
 - go to  https://<your_shop_url>>/<your_admin_path>/admin/system_config/
 - go to sales -> payment methods
 - paste your mnemonic phrase
 - choose coins for payment
-

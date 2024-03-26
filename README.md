@@ -1,4 +1,4 @@
-# About Repository
+# About this Repository
 
 ## Magento2 plugin for Decimal Blockchain
 
